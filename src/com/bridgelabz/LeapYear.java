@@ -2,7 +2,7 @@ package com.bridgelabz;
 
 public class LeapYear {
     public static void main(String[] args) {
-        int year = 1800;
+        int year = 1581;
         boolean leapYear = false;
         if(year >= 1582) {
             if (year % 4 == 0) {
